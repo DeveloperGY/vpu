@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "vpu"
+name = "fpu"
 version = "0.1.0"
